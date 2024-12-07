@@ -1,0 +1,16 @@
+{
+  "name": "easymoney-app",
+  "version": "1.0.0",
+  "description": "Easy Money Private Betting App",
+  "main": "app.js",
+  "repository": "https://github.com/no-keyboard/EasyMoney/",
+  "author": "Jason Lee",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
